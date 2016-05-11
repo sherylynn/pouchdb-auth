@@ -31,7 +31,7 @@
     "pouchdb-validation": "^1.1.0",
     "pouchdb-wrappers": "^1.0.0",
     "promise-nodify": "^1.0.0",
-    "secure-random": "^1.1.1"
+    "secure-random": "github:sherylynn/secure-random"
   },
   "devDependencies": {
     "extend": "^3.0.0",
